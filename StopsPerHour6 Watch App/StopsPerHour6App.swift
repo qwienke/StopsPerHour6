@@ -11,7 +11,8 @@ import SwiftUI
 struct StopsPerHour6_Watch_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView(timeElapsed: .constant(0), totalStops: .constant(0))
+            StopsTotalView(totalStops: .constant(0))
         }
     }
 }
