@@ -38,7 +38,7 @@ struct ContentView: View {
         print("TimesInMinute: \(timeInMinutes)")
             let timeInHours = timeInMinutes
         print("TimesInHour \(timeInHours)")
-        
+        //This is a test to see if github worked. Delete 
         
        ///documentation markUp
         ///glitch is here somewhere. it crashes when pushing delivered. i think its because the timeInMinutes. Should be able to delete and use as it was before")
