@@ -56,7 +56,7 @@ struct StopsTotalView: View {
         }
     }
     
-   
+   //Another test.. Delete please
     
     func timerFired() {
         
